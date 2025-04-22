@@ -1,1 +1,2 @@
 # AttendanceApp
+Checking github permissions
